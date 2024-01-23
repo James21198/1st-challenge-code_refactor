@@ -9,7 +9,7 @@ I was able to Add Alt attributes to the HTML File
 I ensured that all of the headings fell into a sequential order
 I ensured that the title of the HTML File was concise and descriptive
 
-assets\images\01-html-css-git-homework-demo.png
+![Alt text](assets/images/01-html-css-git-homework-demo.png)
 
 
 
